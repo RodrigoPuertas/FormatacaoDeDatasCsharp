@@ -1,0 +1,17 @@
+
+Nesta arquivo está os códigos, anotaçãos e observações referente ao conteudo de DATAS no C#.
+Assuntos:
+
+-> Datas;
+-> Obdendo valores da data;
+-> Formatação datas;
+-> Padrões de Formatação;
+-> Adicionando valores;
+-> Comparando datas
+-> CultureInfo
+-> Timezone
+-> Timespan
+
+
+Data de conclusão: 05/04/2022
+Autor: Rodrigo Puertas
