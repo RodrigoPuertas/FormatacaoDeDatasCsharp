@@ -14,7 +14,7 @@ namespace FormatacaoDeDatas
             Console.WriteLine(data.AddMonths(1));//add + 1 para os mês.
             Console.WriteLine(data.AddYears(1));//add + 1 para o ano.
             Console.WriteLine(data.AddHours(1));//add + 1 para a hora.
-            //OBS: usar esses metodos pois não precisa se preocupar com a qtd dse dias um mes tem ele já faz isso automaticamente.
+            //OBS: usar esses metodos pois não precisa se preocupar com a qtd de dias presente em um mês, os metodos já fazem isso automaticamente.
 
 
         }
